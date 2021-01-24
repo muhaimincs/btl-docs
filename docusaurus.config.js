@@ -1,13 +1,13 @@
 module.exports = {
   title: 'BTL Docs',
   tagline: 'CMS Configuration for Billie Trust Website',
-  url: 'https://btl-docs.mcstech.dev',
+  url: 'https://muhaimincs.github.io',
   baseUrl: '/btl-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'muhaimincs', // Usually your GitHub org/user name.
-  projectName: 'muhaimincs.github.io', // Usually your repo name.
+  projectName: 'btl-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: '',

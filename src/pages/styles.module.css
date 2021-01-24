@@ -10,7 +10,7 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background-image: url(/static/img/bg.jpg);
+  background-image: url(/img/bg.jpg);
   height: 79.1333vh;
   background-position: 0;
 }

@@ -2,7 +2,7 @@ module.exports = {
   title: 'BTL Docs',
   tagline: 'CMS Configuration for Billie Trust Website',
   url: 'https://muhaimincs.github.io',
-  baseUrl: '/btl-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
